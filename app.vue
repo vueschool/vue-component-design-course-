@@ -28,7 +28,7 @@
           <NuxtLink to="2-branching-component-pattern">Branching Component Pattern</NuxtLink>
         </li>
         <li>
-          <NuxtLink to="3-slots-and-template-props">Slots and Template</NuxtLink>
+          <NuxtLink to="3-slots-and-template-props">Slots and Template Props</NuxtLink>
         </li>
       </ul>
     </div>
