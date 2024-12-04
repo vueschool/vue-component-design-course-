@@ -30,6 +30,9 @@
         <li>
           <NuxtLink to="3-slots-and-template-props">Slots and Template Props</NuxtLink>
         </li>
+        <li>
+          <NuxtLink to="4-list-with-list-item-pattern">List with ListItem Pattern</NuxtLink>
+        </li>
       </ul>
     </div>
   </div>
