@@ -58,7 +58,7 @@ export default defineEventHandler(async (event) => {
         {
             id: 10,
             title: 'Tenth Post',
-            imageUrl: 'https://picsum.photos/600/450?random=0',
+            imageUrl: 'https://picsum.photos/600/450?random=10',
             content: 'This is my tenth post',
         },
 

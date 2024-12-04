@@ -22,7 +22,7 @@ export default defineEventHandler(async (event) => {
     {
       id: 4,
       title: 'Fourth Post',
-      imageUrl: 'https://picsum.photos/600/450?random=3',
+      imageUrl: 'https://picsum.photos/600/450?random=4',
       content: 'This is my fourth post',
     },
   ]
