@@ -3,7 +3,7 @@ const user = ref(null)
 </script>
 <template>
   <div>
-    <PageHeading :number="6">Form Component Pattern</PageHeading>
+    <PageHeading :number="5">Form Component Pattern</PageHeading>
 
     <UserForm v-model="user" />
 

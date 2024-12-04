@@ -10,7 +10,7 @@ const users = ref([
 </script>
 <template>
     <div>
-        <PageHeading :number="4">List with List Item Pattern</PageHeading>
+        <PageHeading :number="3">List with List Item Pattern</PageHeading>
         <UserList :users="users" />
     </div>
 </template>
