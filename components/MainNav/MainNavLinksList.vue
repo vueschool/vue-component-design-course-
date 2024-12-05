@@ -21,9 +21,17 @@ const links = [
         to: "5-form-component-pattern",
     },
     {
-        title: "A Few Advanced Vue Component Patterns",
-        to: "6-a-few-advanced-vue-component-patterns",
-    }
+        title: "Advanced: Tightly Coupled Components with Provide/Inject",
+        to: "6-advanced-tightly-coupled",
+    },
+    {
+        title: "Advanced: Recursive Components",
+        to: "7-advanced-recursive",
+    },
+    {
+        title: "Advanced: Lazy Dynamic Components",
+        to: "8-advanced-dynamic",
+    },
 ];
 </script>
 <template>
