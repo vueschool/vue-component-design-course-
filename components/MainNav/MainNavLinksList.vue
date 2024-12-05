@@ -2,27 +2,27 @@
 const links = [
     {
         title: 'Branching Component Pattern',
-        to: '2-branching-component-pattern',
+        to: '1-branching-component-pattern',
     },
     {
         title: 'Slots and Template Props Pattern',
-        to: '3-slots-and-template-props',
+        to: '2-slots-and-template-props',
     },
     {
         title: 'List with ListItem Pattern',
-        to: '4-list-with-list-item-pattern',
+        to: '3-list-with-list-item-pattern',
     },
     {
         title: 'Smart vs Dumb Components Pattern',
-        to: '5-smart-vs-dumb-components-pattern',
+        to: '4-smart-vs-dumb-components-pattern',
     },
     {
         title: "Form Component Pattern",
-        to: "6-form-component-pattern",
+        to: "5-form-component-pattern",
     },
     {
         title: "A Few Advanced Vue Component Patterns",
-        to: "7-a-few-advanced-vue-component-patterns",
+        to: "6-a-few-advanced-vue-component-patterns",
     }
 ];
 </script>
